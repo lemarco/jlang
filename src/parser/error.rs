@@ -1,5 +1,3 @@
-// src/parser/error.rs
-
 use std::fmt;
 
 #[derive(Debug, Clone, PartialEq)]

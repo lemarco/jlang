@@ -1,6 +1,3 @@
-// src/lexer/token.rs
-
-/// Represents the different types of tokens in the language
 #[derive(Debug, Clone, PartialEq)]
 pub enum TokenType {
     // Keywords

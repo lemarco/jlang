@@ -1,5 +1,3 @@
-// src/ast/mod.rs
-
 #[derive(Debug, Clone, PartialEq)]
 pub enum Type {
     Number,

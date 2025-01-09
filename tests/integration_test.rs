@@ -1,4 +1,3 @@
-// tests/integration_tests.rs
 use jlang::*;
 use std::fs;
 
